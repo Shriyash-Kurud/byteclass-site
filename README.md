@@ -1,5 +1,6 @@
 # Byteclass
-A modern software agency portfolio website built with Next.js, TypeScript, Tailwind CSS, Framer Motion, and Lucide Icons.
+Byteclass is a software development company focused on building modern web applications, AI-powered solutions, SaaS platforms, and digital products for startups and businesses.
+
 
 ## Getting Started
 
@@ -55,6 +56,3 @@ byteclass-site/
 ├── package.json
 └── tsconfig.json
 ```
-
-## About Byteclass
-Byteclass is a software development company focused on building modern web applications, AI-powered solutions, SaaS platforms, and digital products for startups and businesses.
